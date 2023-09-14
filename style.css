@@ -1,0 +1,47 @@
+table img{
+    width: 1.5vw;
+}
+
+.front{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+
+nav ul li{
+    overflow: hidden;
+    margin: 0 10px 0 0; 
+    display: inline-block;
+    justify-content: end;
+    
+}
+
+.logo{
+    font-size: xx-large;
+    margin-left: 15px;
+
+}
+
+body{
+    background-color: aqua;
+    max-width: 1250px;
+}
+
+h2{
+    color: red;
+}
+
+input[type=text]{
+    width: 100%; margin: 8px 0; border-radius: 5px; font-style: italic; font-weight: lighter; padding-left: 10px;
+}
+
+input[type=text2]{
+    width: 100%; margin: 8px 0; border-radius: 5px; font-style: italic; font-weight: lighter; padding-left: 10px;
+}
+
+input[type=button]{
+    border-color: blue; background-color: blueviolet; border-radius: 3px;
+}
